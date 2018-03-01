@@ -1,10 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void change(){
-
-}
-
 int main(){
 	string str;
 	cout<<"Enter Your Number: ";
